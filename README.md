@@ -1,2 +1,3 @@
 # arduino_2WD_robot
-readme
+
+Basic 2WD arduino robot controlled by IR remote
